@@ -1,6 +1,6 @@
-# boltz2-screen
+# MedMol
 
-An open-source reproduction of **BoltzMol-1's scoring core**: a target sequence + candidate
+**MedMol** is an open-source reproduction of **BoltzMol-1's scoring core**: a target sequence + candidate
 small-molecule library in, ranked hit list out — powered by [Boltz-2](https://github.com/jwohlwend/boltz)
 (MIT) structure co-folding + affinity prediction.
 
