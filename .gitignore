@@ -1,0 +1,24 @@
+# weights & CCD are MIT-licensed but 6.2 GB — users download via scripts/download_weights_parallel.py
+weights/
+wheelhouse/
+
+# experiment outputs & local results
+results/
+results-*/
+
+# MSA & generated inputs are reproducible via scripts (fetch_msa.py / build_inputs.py)
+msa/
+inputs/
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# os / editor
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/

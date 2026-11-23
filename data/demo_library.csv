@@ -1,0 +1,8 @@
+﻿name,smiles,known_binder,note
+acetazolamide,CC(=O)NC1=NN=C(S1)S(=O)(=O)N,yes,临床CA抑制剂 磺酰胺warhead nM级
+sulfanilamide,Nc1ccc(S(N)(=O)=O)cc1,yes,最简磺酰胺 uM级弱结合
+ethoxzolamide,CCOc1ccc2sc(nc2c1)S(N)(=O)=O,yes,苯并噻唑磺酰胺 nM级
+caffeine,CN1C=NC2=C1C(=O)N(C)C(=O)N2C,no,decoy 黄嘌呤类
+aspirin,CC(=O)Oc1ccccc1C(=O)O,no,decoy 水杨酸类
+glucose,OC[C@H]1O[C@@H](O)[C@H](O)[C@@H](O)[C@H]1O,no,decoy 糖类 高极性
+benzene,c1ccccc1,no,decoy 惰性小分子
